@@ -1,0 +1,24 @@
+{
+  "name": "goauth2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readfiletest.js",
+  "dependencies": {
+    "client-oauth2": "^4.1.0",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "googleapis": "^22.2.0",
+    "node-github-oauth2": "^0.1.21",
+    "nodemon": "^1.14.10",
+    "passport-google-oauth": "^1.0.0",
+    "passport-local": "^1.0.0",
+    "simple-oauth2": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
